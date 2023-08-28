@@ -1,1 +1,16 @@
-# Epi_food_Chemical_Database
+# EpiFoodChemicalDatabase
+Supporting Information of Food Chemicals in Epigenetic Targets: Towards an Epi Food Chemical Database project.
+
+# **Table of contents:**
+
+**1. EpiFoodChemicalDatabase.csv**
+
+Annotated compound database of food chemicals reported with epigenetic activity in csv format.
+
+**2. TableS1_Diseasesandgenes.csv**
+
+Table with the list of diseases/genes obtained in the literature search  in csv format.
+
+**3. TableS2_Researchpapers.csv**
+
+List of 436 research papers used to build the Epi Food Chemical Database.
